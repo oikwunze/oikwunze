@@ -1,6 +1,6 @@
 ### About Me 🚀
 🎓  I’m a DevOps/Cloud Engineer. </br>
-👨‍💻  I am passionate about DevOps, Web Dev, Kubernetes, Machine Learning,  & I enjoy learning new things. </br>
+👨‍💻  I am passionate about DevOps, Web Dev, Kubernetes, Machine Learning & I enjoy learning new things. </br>
 
 
 
