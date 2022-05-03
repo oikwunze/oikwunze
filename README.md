@@ -1,6 +1,6 @@
 ### About Me 🚀
 🎓  Information Tech Lover. </br>
-👨‍💻  I am passionate about DevOps, Web Dev, Kubernetes, Machine Learning & I enjoy learning new things. </br>
+👨‍💻  I am passionate about DevOps, Web Dev, Kubernetes, Machine Learning, ITIL 4, Servicenow & I enjoy learning new things. </br>
 
 
 
