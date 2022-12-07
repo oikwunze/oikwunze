@@ -1,6 +1,6 @@
 ### About Me 🚀
 🎓  Software Development Lover. </br>
-👨‍💻  I am passionate about DevOps, Web Dev, Kubernetes, Machine Learning, ITIL 4, Servicenow and agile project management. I enjoy learning new things especially new technologies. </br>
+👨‍💻  I am passionate about Software Development, DevOps, Machine Learning, ITIL 4, Servicenow and agile project management. I enjoy learning new things especially new technologies. </br>
 
 
 
